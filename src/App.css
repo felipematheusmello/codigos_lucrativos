@@ -62,8 +62,8 @@
   box-shadow: none;
   margin-top: 20px;
   margin-bottom: 20px;
-
 }
+
 
 @media screen and (max-width: 480px) {
   .desconto {
@@ -83,6 +83,10 @@
   .description {
     font-size: 12px;
     letter-spacing: normal;
+  }
+  .duracao {
+    font-size: 10px;
+    letter-spacing: 2px;
   }
 }
 

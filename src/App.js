@@ -14,7 +14,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setFinishTimer(true)
-    }, 720050)
+    }, 1080000)
   }, [])
 
   return (
@@ -23,6 +23,7 @@ function App() {
         <CounterBanner></CounterBanner>
       </Header>
       <Disclaimer></Disclaimer>
+      <p className='duracao'>Esse vídeo tem 7 minutos</p>
       <div className='video-container'>
         <VideoPlayer></VideoPlayer>
       </div>

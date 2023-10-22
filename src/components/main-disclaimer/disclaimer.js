@@ -1,5 +1,4 @@
 import React from "react";
-import imagem from "./google.png"
 import './disclaimer.css'
 import headline from './headline.svg'
 

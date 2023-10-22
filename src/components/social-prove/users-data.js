@@ -39,7 +39,6 @@ export const usersData = [
             username: "Robinho Batista",
             message: "Da pra fazer quanto no mês irmão?",
             likes: 20,
-            
         },
         {
             src: "https://img.imageboss.me/atm/cdn/format:auto/u/a5Dak48cUifkJo8nvqtFd5Rw7AC3/l/qqhpeh8873872.jpeg",
